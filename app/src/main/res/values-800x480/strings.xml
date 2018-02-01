@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dp225">200</string>
+     <string name="dp220">165</string>
+     <string name="dp110">82.5</string>
+     
+     <string name="kdp2">3</string>
+     <string name="kdp6">10.5</string>
+     <string name="kdp8">4.5</string>
+     <string name="kdp12">6</string>
+     <string name="kdp13">9.75</string>
+
+     <string name="ksp12">12</string>
+     <string name="ksp8">6</string>
+     <string name="ksp10">8</string>
+     
+	<string name="dp30">15</string>
+</resources>

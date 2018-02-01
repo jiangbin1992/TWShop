@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dp225">225</string> <!-- 交易页曲线K线展示大小 -->
+    <string name="dp220">180</string> <!-- 首页自选商品展示区域高度 -->
+    <string name="dp110">90</string> <!-- 首页图形展示 -->
+
+    <string name="kdp2">4</string> <!-- K线左边 -->
+    <string name="kdp6">14</string> <!-- 取K线个数 -->
+    <string name="kdp8">6</string> <!-- k线中间 -->
+    <string name="kdp12">8</string> <!-- K线右边 -->
+    <string name="kdp13">11.5</string> <!-- 点击位置 -->
+
+    <string name="ksp12">12</string> <!-- 字体大小 -->
+    <string name="ksp8">8</string> <!-- 字体大小 -->
+    <string name="ksp10">10</string> <!-- 字体大小 -->
+
+
+
+    <string name="dp30">28</string>
+
+</resources>

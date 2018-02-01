@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="text_color">#d81e06</color>
+    <color name="text_bg">#BFBFBF</color>
+    <color name="view_color">#dadada</color>
+    <color name="yellow">#FFFF7F00</color>
+    <color name="black2c">#2c2c2c</color>
+    <color name="black666">#666666</color>
+    <color name="blackBBBB"> #D9D9D9</color>
+    <color name="dark_tou1">#8D94AD</color>
+    <color name="frg4_bd">#A39A7B</color>
+    <color name="light_gray">#FFEEEEEE</color>
+    <color name="text_gray">#FF8F8989</color>
+
+    //首页
+    <color name="home_title">#FB6400</color>
+    <color name="light_tou">#338F8989</color>
+    <color name="dark_tou">#22000000</color>
+
+
+    //我的页面
+    <color name="gray">#FFEFEFF4</color>
+    <color name="black">#FF000000</color>
+
+    //设置
+    <color name="backaround_gray">#FFDDDDDD</color>
+
+    //登录注册找回密码
+    <color name="loginbutton_color">#16ba95</color>
+</resources>

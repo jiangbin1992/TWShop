@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="register_tvmargin">10dp</dimen>
+    <dimen name="register_buttonmarginRight">10dp</dimen>
+    <dimen name="register_buttonheight">40dp</dimen>
+
+    <dimen name="realname_ll_marginTop">10dp</dimen>
+    <dimen name="realname_tv_height">40dp</dimen>
+    <dimen name="realname_tv_marginTop">5dp</dimen>
+</resources>

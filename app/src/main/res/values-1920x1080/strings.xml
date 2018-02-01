@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dp225">225</string>
+    <string name="dp200">180</string>
+    
+    
+    <string name="kdp2">4</string>
+    <string name="kdp6">18</string>
+    <string name="kdp8">6</string>
+    <string name="kdp12">8</string>
+    <string name="kdp13">11.5</string>
+    <!--横屏-->
+
+    <string name="ksp12">12</string>
+    <string name="ksp8">8</string>
+    <string name="ksp10">10</string>
+    
+	<string name="dp30">30</string>
+</resources>
